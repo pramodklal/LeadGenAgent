@@ -184,4 +184,4 @@ Basic flow:
 - The repository also contains Python assets from the original pipeline, but the active user-facing experience is the Next.js frontend in the `web` folder.
 - Before sharing or deploying, ensure secrets are rotated and stored securely (for example, App Service settings/Key Vault) rather than committed files.
 
-Deisgn & Developed by COde Insights
+Deisgn & Developed by Code Insights
